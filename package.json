@@ -1,7 +1,7 @@
 {
-  "name": "pdfvuer",
-  "description": "A PDF viewer for Vue using Mozilla's PDF.js",
-  "version": "1.10.0",
+  "name": "pdfvue-f",
+  "description": "Fixed issue #134 for the pdfvuer v1.10.0 npm package",
+  "version": "1.1.0",
   "author": "Gaurav Koley <arkokoley@live.in>",
   "license": "MIT",
   "homepage": "https://github.com/arkokoley/pdfvuer#pdfvuer",
@@ -9,7 +9,7 @@
     "url": "https://github.com/arkokoley/pdfvuer/issues",
     "email": "arkokoley@live.in"
   },
-  "repository": "github:arkokoley/pdfvuer",
+  "repository": "github.com/fszqj/pdfvue-f.git",
   "main": "src/Pdfvuer.vue",
   "unpkg": "dist/pdfvuer.umd.min.js",
   "files": [
